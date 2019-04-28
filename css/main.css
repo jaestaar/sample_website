@@ -4,3 +4,17 @@
             .nav-spacing {
         margin: 0 0 0 10px;
       }
+      
+  .image-link {
+      text-decoration: none;
+  }
+  
+  .text-quote {
+      font-style: italic; 
+      font-size: 20px;
+  }
+  
+ .text-quote2 { 
+     padding: 2px 20px;
+     background: #FFF000
+ }
